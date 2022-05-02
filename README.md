@@ -14,4 +14,4 @@ I've cloned the above locally, but feel it better for learning purposes to just 
 
 Also, there are a few things I want to do differently - like installing git pre-commit and running
 terraform fmt & validate. 
-
+(NOTE: There might be issues with terraform validate. Hopefully, won't affect this repo)
